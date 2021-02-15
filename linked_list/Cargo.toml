@@ -1,0 +1,11 @@
+[package]
+name = "linked_list"
+version = "0.1.0"
+authors = ["M. Daley <mdaley115@gmail.com>"]
+edition = "2018"
+
+[lib]
+name = "transaction_log"
+path = "src/lib.rs"
+
+[dependencies]

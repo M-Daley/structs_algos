@@ -1,0 +1,11 @@
+[package]
+name = "red_black_tree"
+version = "0.1.0"
+authors = ["M. Daley <mdaley115@gmail.com>"]
+edition = "2018"
+
+[lib]
+name = "rb_tree"
+path = "src/lib.rs"
+
+[dependencies]
